@@ -1,0 +1,19 @@
+{
+    "name": "fabio-mobile-stock/validador",
+    "description": "Validador de estruras",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "fabio",
+        "email": "fabio@mobilestock.com.br"
+      }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "Fabio\\Validador\\": "./src/"
+      }
+    }
+  }
